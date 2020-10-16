@@ -6,7 +6,16 @@
 
 ### HOW TO USE : 
 
+### INSTALL REQS
+
+    pip install BeautifulSoup4 requests wheel
+  
+    python setup.py bdist_wheel
+    
+    pip install -e .
+	
     import asciiText
+    
 
 #### GET LIST OF AVAILABLE FONTS
 	
@@ -23,10 +32,6 @@
 ![colorascii](https://i.ibb.co/YBXG36v/color.png)
 
     asciiText.getAsciiColor(text="JoeVenner",font="broadway",color="green")
-
-### INSTALL REQS
-
-    pip install BeautifulSoup4 requests wheel
 
 
 ### FOR API CALL
