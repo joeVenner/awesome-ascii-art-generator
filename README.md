@@ -24,6 +24,10 @@
 
     asciiText.getAsciiColor(text="JoeVenner",font="broadway",color="green")
 
+### INSTALL REQS
+
+    pip install BeautifulSoup4 requests wheel
+
 
 ### FOR API CALL
 
