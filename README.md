@@ -4,7 +4,7 @@
 
 ![demo](https://i.ibb.co/yYFFpkm/1.png)
 
-### HOW TO USE : 
+## HOW TO USE : 
 
 ### INSTALL REQS
 
