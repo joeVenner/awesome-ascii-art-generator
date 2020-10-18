@@ -8,7 +8,7 @@
 
 ### INSTALL REQS
 
-    pip install BeautifulSoup4 requests wheel
+    pip install wheel
   
     python setup.py bdist_wheel
     
